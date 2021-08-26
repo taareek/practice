@@ -1,3 +1,2 @@
 
-print('Anne')
-print('onika')
+print(' ')
